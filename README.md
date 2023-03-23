@@ -1,4 +1,4 @@
-# Simple Permission
+# SI Mobile Permission
 This plugin provides a cross-platform (iOS, Android) API to request permissions and check their status. You can also open the device's app settings so users can grant a permission.
 
 [comment]: <> ([![pub package]&#40;https://img.shields.io/pub/v/simple_setting.svg&#41;]&#40;https://pub.dev/packages/simple_setting&#41;)
